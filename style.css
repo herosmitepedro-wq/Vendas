@@ -42,7 +42,7 @@
     bottom: auto;
     width: 94%;
     max-width: none;
-    height: 930px;
+    height: 950px;
     min-height: 0;
     margin: 30px auto 20px;
     padding: 20px 15px;
@@ -59,9 +59,9 @@
 }
 
 .container input{
-    width: 520px;
+    width: 550px;
     max-width: 100%;
-    height: 95px;
+    height: 125px;
     border-radius: 20px;
     border: 1px solid #999;
     background-color: #eaf8ff;
