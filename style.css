@@ -40,15 +40,15 @@
     position: relative;
     left: auto;
     bottom: auto;
-    width: 1150px;
+    width: 750px;
     max-width: none;
-    height: 920px;
+    height: 720px;
     min-height: 0;
     margin: 30px auto 20px;
     padding: 20px 15px;
     border: 1px solid #999;
     background: #23d7ff;
-    border-radius: 35px;
+    border-radius: 20px;
 }
 
 .container{
@@ -59,15 +59,15 @@
 }
 
 .container input{
-    width: 500px;
+    width: 400px;
     max-width: 100%;
-    height: 85px;
-    border-radius: 20px;
+    height: 60px;
+    border-radius: 10px;
     border: 1px solid #999;
     background-color: #eaf8ff;
     cursor: pointer;
-    font-size: 22px;
-    margin-bottom: 25px;
+    font-size: 20px;
+    margin-bottom: 10px;
     padding-left: 10px;
 }
 
@@ -131,11 +131,11 @@ input:focus{
 button{
     margin: auto;
     display: block;
-    width: 200px;
-    height: 74px;
+    width: 160px;
+    height: 55px;
     font-size: 18px;
     color: white;
-    border-radius: 20px;
+    border-radius: 15px;
     border: 1px solid #999;
     background-color: blue;
 }
