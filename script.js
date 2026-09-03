@@ -6,6 +6,16 @@ function encomendar(){
     let quantidade = document.getElementById("quantidade").value;
     let localizacao = document.getElementById("localizacao").value;
 
+    if (data == "" || nome == "" || contacto == "" ||
+        material == "" || quantidade == "" || localizacao == "") {
+
+        alert("Preencha todos os campos");
+        return;
+    }
+
+    let numero = "244974519069";
+
+
     let mensagem = `*Nova Encomenda Erosart*%0A
     *Data*: ${data}%0A
     *Nome*: ${nome}%0A
@@ -14,7 +24,6 @@ function encomendar(){
     *Quantidade*: ${quantidade}%0A
     *Localizacao*: ${localizacao}%0A`;
 
-    let numero = "244974519069";
-    window.open(`https: //wa.me/${numero}?text=${mensagem}`, "_blank");
+    window.open(`https://wa.me/${numero}?text=${mensagem}`, "_blank");
 
 } 
