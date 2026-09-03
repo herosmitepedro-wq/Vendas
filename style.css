@@ -91,10 +91,10 @@ input:focus{
 .container input:focus + label,
 .container input:valid + label{
     transform: translateY(0);
-    top: -22px;
-    left: 15px;
+    top: -28px;
+    left: 20px;
     color: blue;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .navegador a{
