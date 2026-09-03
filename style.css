@@ -42,7 +42,7 @@
     bottom: auto;
     width: 80%;
     max-width: none;
-    height: 1200px;
+    height: 1000px;
     min-height: 0;
     margin: 50px auto 50px;
     padding: 20px 15px;
@@ -78,11 +78,11 @@ input:focus{
 
 .container label{
     position: absolute;
-    left: 12px;
-    top: 50%;
+    left: 15px;
+    top: 52%;
     transform: translateY(-50%);
     transition: 0.3s;
-    font-size: 16px;
+    font-size: 20px;
     pointer-events: none;
     font-weight: bold;
 }
