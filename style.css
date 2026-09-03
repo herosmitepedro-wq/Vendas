@@ -40,11 +40,11 @@
     position: relative;
     left: auto;
     bottom: auto;
-    width: 78%;
+    width: 80%;
     max-width: none;
-    height: 1000px;
+    height: 1200px;
     min-height: 0;
-    margin: 30px auto 20px;
+    margin: 50px auto 50px;
     padding: 20px 15px;
     border: 1px solid #999;
     background: #23d7ff;
@@ -59,14 +59,14 @@
 }
 
 .container input{
-    width: 586px;
+    width: 588px;
     max-width: 100%;
-    height: 110px;
+    height: 115px;
     border-radius: 30px;
     border: 1px solid #999;
     background-color: #eaf8ff;
     cursor: pointer;
-    font-size: 26px;
+    font-size: 30px;
     margin-bottom: 25px;
     padding-left: 10px;
 }
