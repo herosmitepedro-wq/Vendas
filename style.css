@@ -267,8 +267,8 @@ button{
 
 .card5{
     position: relative;
-    width: 250px;
-    height: 280px;
+    width: 350px;
+    height: 300px;
     left: 50px;
     bottom: 910px;
     border: 1px solid #ccc;
@@ -279,8 +279,8 @@ button{
 }
 
 .card5 img {
-    width: 220px;
-    height: 220px;
+    width: 290px;
+    height: 280px;
 }
 
 .card5 h3{
