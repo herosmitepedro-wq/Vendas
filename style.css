@@ -82,7 +82,7 @@ input:focus{
     top: 20px;
     transform: translateY(-50%);
     transition: 0.3s;
-    font-size: 30px;
+    font-size: 16px;
     pointer-events: none;
     font-weight: bold;
 }
